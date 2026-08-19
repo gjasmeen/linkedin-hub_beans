@@ -13,7 +13,7 @@ export default function Home() {
       </p>
 
       <p className="text-gray-700 mb-4 text-center text-sm">
-        Tap a bean to visit a profile
+        Tap a bean to visit a profile!
       </p>
 
       <div className="flex flex-col gap-3 w-full max-w-sm">
